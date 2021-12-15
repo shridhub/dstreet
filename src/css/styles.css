@@ -4,12 +4,12 @@ body {
     color:white;
 }
 
-html {
-    overflow: scroll;
-}
-
 .name {
     color: #B2F9FC;
+}
+
+.name:hover {
+    text-shadow: 0 0 3px blue; 
 }
 
 .title {
@@ -33,10 +33,13 @@ html {
     background: #334756;
     border-radius: 10px;
     z-index: 10;
+    transition: background 0.5s;
 }
 
 .content-card:hover {
-    box-shadow: 0 0 5px skyblue;
+    box-shadow: 0 0 5px white;
+    background: #082032;
+
 }
 
 .img-content {
