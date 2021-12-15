@@ -18,6 +18,7 @@ html {
     font-size: 90px;
     color: springgreen;
     text-shadow: 0 0 10px darkgreen, 0 0 10px darkgreen;
+    z-index:1;
 }
 
 .content-card {
@@ -34,4 +35,15 @@ html {
     background: black;
     color:white;
     box-shadow: 0 -5px 30px white;
+}
+
+.chart {
+    position: absolute;
+    width: 100vw;
+    height: 100vh;
+    z-index:0;
+}
+
+canvas {
+    z-index: 0;
 }
