@@ -8,7 +8,6 @@ body {
 }
 
 .title {
-    color: #0cbe46;
     font-family: Federant;
 }
 
@@ -21,5 +20,9 @@ body {
 
 .img-content {
     border-radius: 30px;
+}
+
+.footer {
+    background: #FAF1E6;
 }
 
