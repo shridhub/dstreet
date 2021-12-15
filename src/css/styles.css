@@ -2,7 +2,7 @@ body {
     font-family: Red Hat Display;
     background-color: #082032;
     color:white;
-    overflow: hidden;
+    overflow: none;
 }
 
 .name {
