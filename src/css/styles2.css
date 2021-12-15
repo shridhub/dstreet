@@ -1,0 +1,25 @@
+body {
+    font-family: Red Hat Display;
+    background-color: white;
+}
+
+.name {
+    color: #0cbe46;
+}
+
+.title {
+    color: #0cbe46;
+    font-family: Federant;
+}
+
+.content-card {
+    background: #FAF1E6;
+    border-radius: 10px;
+    border: none;
+
+}
+
+.img-content {
+    border-radius: 30px;
+}
+
