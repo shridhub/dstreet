@@ -4,20 +4,26 @@ body {
     color:white;
 }
 
+html {
+    overflow: scroll;
+}
+
 .name {
     color: #B2F9FC;
 }
 
 .title {
-    color:#082032;
-    text-shadow: 0 0 2px white; 
-    font-family: Federant;
+    font-family: Roboto Slab;
     height: 100vh;
+    font-size: 90px;
+    color: springgreen;
+    text-shadow: 0 0 10px darkgreen, 0 0 10px darkgreen;
 }
 
 .content-card {
     background: #334756;
     border-radius: 10px;
+    z-index: 10;
 }
 
 .img-content {
