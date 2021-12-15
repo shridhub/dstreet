@@ -9,7 +9,8 @@ body {
 }
 
 .title {
-    color:white;
+    color:#082032;
+    text-shadow: 0 0 2px white; 
     font-family: Federant;
     height: 100vh;
 }
