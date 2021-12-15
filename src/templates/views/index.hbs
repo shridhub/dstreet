@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0">
+    <meta name="viewport" content="width=device-width, user-scalable=no" />
     <!-- CSS only -->
     <link href="https://fonts.googleapis.com/css2?family=Red+Hat+Display:wght@600&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Federant&display=swap" rel="stylesheet">
@@ -12,7 +12,9 @@
     <title>DStreet</title>
 </head>
 <body>
-    <p class="title text-center m-5 h1">DStreet</p>
+    <div class="title m-5 justify-content-center align-items-center d-flex">
+        <p class="h1">DStreet</p>
+    </div>
     <div class="row justify-content-around my-5 mx-3 mx-lg-5 align-items-center">
     {{#each arr}}
         <div class="col-sm-12 col-md-6 col-lg-4 d-flex justify-content-center my-4">
