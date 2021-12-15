@@ -19,12 +19,24 @@ html {
     color: springgreen;
     text-shadow: 0 0 10px darkgreen, 0 0 10px darkgreen;
     z-index:1;
+
+    display:grid;
+    grid-template-columns: repeat(100, 1fr);
+    grid-template-rows: repeat(100, 1fr);
+}
+
+.item {
+    border: 1px solid red;
 }
 
 .content-card {
     background: #334756;
     border-radius: 10px;
     z-index: 10;
+}
+
+.content-card:hover {
+    box-shadow: 0 0 5px skyblue;
 }
 
 .img-content {
