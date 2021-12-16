@@ -46,19 +46,12 @@ body {
     border-radius: 30px;
 }
 
+.text {
+    color: white;
+}
+
 .footer {
     background: black;
     color:white;
     box-shadow: 0 -5px 30px white;
-}
-
-.chart {
-    position: absolute;
-    width: 100vw;
-    height: 100vh;
-    z-index:0;
-}
-
-canvas {
-    z-index: 0;
 }

@@ -1,0 +1,27 @@
+body {
+    font-family: Red Hat Display;
+    background-color: #082032;
+    color:white;
+}
+
+.footer {
+    background: black;
+    color:white;
+    box-shadow: 0 -5px 30px white;
+}
+
+.img-content {
+    border-radius: 15px;
+}
+
+.name {
+    color: #B2F9FC;
+}
+
+.title {
+    font-family: Roboto Slab;
+    font-size: 60px;
+    color: springgreen;
+    text-shadow: 0 0 10px darkgreen, 0 0 10px darkgreen;
+    z-index:1;
+}
