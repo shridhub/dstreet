@@ -14,18 +14,29 @@
     <title>DStreet Blog: {{ data.name }}</title>
     
 </head>
-<body class="my-5">
+<body class="mt-5">
 
     <div class="m-5 title mt-0 justify-content-center align-items-center d-flex">
         <p>DStreet</p>
     </div>
+
+    {{!-- Blog Image --}}
 
     <div class="row mx-3 mx-lg-5">
         <div class="col-lg-3 col-md-3"></div>
         <div class="col-lg-6 col-md-6 col sm-12 text-center"><img class="img-fluid img-content" src="{{ data.link }}" alt="Card image cap"></div>
         <div class="col-lg-3 col-md-3"></div>
     </div>
-    <div class="row mx-3 mx-lg-5 mt-5">
+
+    {{!-- Blog Date --}}
+    <div class="row mx-3 mx-lg-5 mt-1">
+        <div class="col-lg-3 col-md-3"></div>
+        <div class="col-lg-6 col-md-6 col sm-12"><p class="m-0 p-0 text-right"><i>Date</i></p></div>
+        <div class="col-lg-3 col-md-3"></div>
+    </div>
+
+    {{!-- Blog Title --}}
+    <div class="row mx-3 mx-lg-5 mt-4">
         <div class="col-lg-3 col-md-3"></div>
         <div class="col-lg-6 col-md-6 col sm-12">
             <span class="h2 name">{{ data.name }}</span>
@@ -33,6 +44,8 @@
         <div class="col-lg-3 col-md-3"></div>
     </div>
     
+
+    {{!-- Blog Content --}}
     <div class="row mx-3 mx-lg-5 my-3">
         <div class="col-lg-3 col-md-3"></div>
         <div class="col-lg-6 col-md-6 col sm-12">
@@ -41,7 +54,7 @@
         <div class="col-lg-3 col-md-3"></div>
     </div>
 
-    <div class="footer mt-5 p-4">
+    <div class="footer mt-5 p-4 mb-0">
         {{>footer}}
     </div>
 </body>
