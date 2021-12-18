@@ -31,7 +31,7 @@ app.get('/', (req, res) => {
 })
 
 app.get('/blogs/:int(\\d+)', (req, res) => {
-    let num = req.params.int  //blog number
+    let num = req.params.int  //blog number, basically int from url
     if (num < arr.length) {
         res.render('blog', { data: arr[num], })
     } else {
@@ -43,7 +43,7 @@ app.get('/blogs/*', (req, res) => {
     res.render('404')
 })
 
-app.get('/*', (req, res) => {
+app.get('*', (req, res) => {
     res.render('404')
 })
 
