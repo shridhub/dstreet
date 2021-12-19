@@ -19,13 +19,13 @@
         <p class="h1 mx-5 my-0">D-Reads</p>
     <div class="row justify-content-around mb-5 mt-0 pb-5 pt-0 mx-3 mx-lg-5 align-items-center">
     {{#each arr}}
-        <div class="col-sm-12 col-md-6 col-lg-4 d-flex justify-content-center my-4">
+        <div class="col-sm-12 col-md-6 col-lg-4 my-4">
     <a href="/blogs/{{@index}}" style="display:inline;text-decoration:none;">
             <div class="card content-card">
                 <img class="card-img-top img-fluid p-3 img-content" src="{{ this.link }}" alt="Card image cap">
                 <div class="card-body">
                     <p class="name h4"><b>{{ this.name }}</b></p>
-                    <p class="text h6 mb-4">{{ this.text }}</p>
+                    <p class="text card-text h6 mb-4">{{ this.text }}</p>
                 </div>
                 <a href="./blogs/{{ @index }}"></a>
             </div>
