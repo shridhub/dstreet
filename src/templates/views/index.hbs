@@ -14,7 +14,7 @@
 </head>
 <body class="mt-0">
     <div class="m-5 title mt-0 justify-content-center align-items-center d-flex">
-        <p>DStreet</p>
+        <p class="title-text">DStreet</p>
     </div>
         <p class="h1 mx-5 my-0">D-Reads</p>
     <div class="row justify-content-around mb-5 mt-0 pb-5 pt-0 mx-3 mx-lg-5 align-items-center">
@@ -41,5 +41,16 @@
 
 
     <!-- JavaScript Bundle with Popper -->
+
+    <script>
+        const dstreet = document.getElementsByClassName('title-text')[0]
+
+        window.addEventListener("scroll", () => {
+            let scr = window.scrollY
+            console.log(scr)
+                dstreet.style.top = window.innerHeight/2 - 67.5 + scr*0.7 + 'px'
+        })
+
+    </script>
 </body>
 </html>
