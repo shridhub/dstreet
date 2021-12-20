@@ -23,7 +23,7 @@ body {
 
 .title-text {
     position: absolute;
-    transition: top 0.1s linear;
+    transition: top 1s linear;
 }
 
 .content-card {
