@@ -1,17 +1,35 @@
-1. It is a very stable stock
+For quite some time, the Internet has been flooded with (some really good) ITC memes. But, have you stopped to wonder ‘Why?’. Despite ITC being a very stable stock, with an enormous growth potential, Why is ITC a Meme Stock?
 
-2. Even though a major portion of their revenue and profits come from the sale of tobacco products, there is an upward trend in their revenue from FMCG goods. 
+In order to answer this question, we should go back to the early 2000s, when ITC first entered the FMCG (Non-Tobacco) sector. Even though ITC was a multi-million dollar conglomerate back then, there was heavy competition from industry giants like HUL (Hindustan Unilever), General Mills, Agrotech India, Cargill etc. Apart from this, the years from 2000 to 2004 were considered to be the period of ‘the worst’ growth for the FMCG sector.
 
-At the moment, only about 2% of their profit comes from FMCG, however, I feel that it is only bound to increase in the near future, once they start achieving economies of scale and increasing efficiency. 
+So, ITC had not only entered the FMCG (Non-Tobacco) sector, which was already saturated with industry giants, but it had also done so at the ‘worst’ possible time. Even prior to this, ITC was involved in multiple businesses across a number of industries- Tobacco, Hospitality, Paperboards, and Agri. But why couldn’t ITC crack the FMCG market for so long? Reading the above statements, one might come to the conclusion that there was heavy competition back then, the time that they entered the market wasn’t right, etc. But the real reason why is because of margins.
 
-3. Since ITC is focusing on diversifying from Cigarettes to FMCG goods, sales is guaranteed even during highly uncertain times (like another pandemic), because whatever happens, people need to eat. This makes FMCG highly inelastic, which is a good thing for investors as sales is guaranteed.
+What are margins you may ask? Everytime vendors sell something to someone, they make some amount of money. That is, they buy something at a marginally lower price than what they sell it for (at least, that’s what traditional vendors do. We shall get deeper into this topic in a future article). That’s how they earn money. In the case of ITC, historically, they’ve been selling high margin products, like cigarettes. This means that they make a high amount of money per unit that they sell. Unfortunately, for other FMCG goods, margins are very low. This means that they have to sell more on a per unit basis, in order to make the same amount of money that they make selling cigarettes.
 
-4. Apart from all this, the cherry on the cake is that ITC pays regular dividends of about 5%. 
+For example, ITC’s Gold Flake Cigarettes retails for Rs. ___ per unit. But it costs the company only Rs. ___ to make it. That’s a profit of Rs. ___ per cigarette. Now, for instance, let us take ITC’s Aashirvaad Atta. It costs them Rs. ___ to make 1 KG of Atta, but they can sell it only for Rs. ___ per KG. 
 
-This means that you can realise gains even without selling the stock (That is, until the share price starts falling, and I don't think it will happen anytime soon).
+Today, about 42% of ITC’s revenue comes from cigarettes. However, it makes about 80% of the profits. At the moment, only about 2% of their profit comes from FMCG even though it brings in about 31% of the revenue, however, it is only bound to increase in the near future, once they start achieving economies of scale and increasing efficiency with their FMCG production and supply chain. Even though a major portion of their revenue and profits come from the sale of tobacco products, there is an upward trend in their revenue from FMCG goods.
 
-Now, the question is
+Since the company is focusing on diversifying from Cigarettes to FMCG goods, sales is guaranteed even during highly uncertain times (like another pandemic), because whatever happens, people need to eat. This makes FMCG highly inelastic, which is a good thing for investors.
 
-Why is it becoming a Meme Stock?
+We’ve talked about tobacco products, other FMCG goods, and we’ve briefly mentioned about their agri, and paperboards businesses. Now, what else is ITC into?
 
-In order to understand this, we have to go back to early 2020. 
+ITC’s Chairman & MD- Mr. Sanjiv Puri mentioned in the FY 2020-21 AGM that the company would concentrate more on their IT Division- ITC Infotech India Ltd. 
+
+
+Woah, what is this? Is it another one of ITC’s subsidiaries? Why haven’t I heard of this before?
+
+Well, yes. ITC also has a presence in the IT sector. And you haven’t heard about it because it has been on the backburner for so long (about 20 years). This company is wholly owned by ITC, and specialises in business consulting, automation, enterprise resource planning etc. In simpler words, they solve certain very specific problems in certain very specific industries. They mainly cater to the Packaged Foods & Manufacturing, Travel & Hospitality, Banking & Financial Services, and the Healthcare & Life Sciences industries (Yup, they’ve been sitting on a goldmine this entire time). This is really good news as they are going to capitalise on the IT boom that this pandemic has offered us.
+
+Apart from all this, the cherry on the cake is that ITC pays regular dividends of about 5%, and Mr. Puri mentioned that the company’s liberal dividend policy would continue for the near future.
+
+And now, for the answer that you all have been waiting for, Why is it(c) a meme stock? A more straightforward question would be to ask ‘Why is the share price not increasing even though it is fundamentally a good company, and there is more room for growth?’
+
+The answer is that ITC’s assets are too diversified. They should trim out businesses that are not performing up to the mark. Namely, their hotels business, as 
+the margins are too low, 
+the number of business travellers is expected to reduce even drastically after the Covid-19 Pandemic, with apps like Zoom, Discord etc, 
+and the only significant market that is left is leisure travellers, and families going on vacation, who would be very price sensitive, especially the rising Indian middle class.
+
+The company itself stated that there may be plans to de-merge the hotels business, in the following years. In my opinion, this is certainly a good thing as it frees up the capital that is sitting idle in the hotels business. The opportunity cost is too high, because it is 100s of crores of rupees that could be better invested elsewhere that makes the company money.
+
+In addition to this, the company also mentioned that listing of their IT subsidiary- ITC Infotech India Ltd is certainly a possibility. This is another step in the right direction as this also raises funds for further expansion, or, in classic ITC fashion, more dividends. 😜

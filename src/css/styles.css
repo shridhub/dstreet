@@ -52,3 +52,9 @@ body {
     color:white;
     box-shadow: 0 -5px 30px white;
 }
+
+@keyframes dash {
+    to {
+      stroke-dashoffset: 1000;
+    }
+  }

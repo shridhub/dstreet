@@ -3,6 +3,7 @@ const path = require('path')
 const hbs = require('hbs')
 const fs = require('fs')
 
+
 const port = process.env.PORT || 8080
 
 const app = express()
@@ -17,7 +18,7 @@ app.set('view engine', 'hbs')
 app.set('views', viewsPath)
 hbs.registerPartials(partPaths)
 
-app.use(express.static(path.join(__dirname, '/css')))
+app.use(express.static(path.join(__dirname, '/css')))  //loading static files
 
 arr = [
        {name: 'ITC, A Desi Meme Stock?', text: 'Desi Desi Desi', link: 'https://akm-img-a-in.tosshub.com/businesstoday/images/story/202109/itc-bull-sixteen_nine.jpg', content:fs.readFileSync(contentPath + './ITC.txt')},
@@ -32,10 +33,10 @@ app.get('/', (req, res) => {
     res.render('index', { arr: arr })
 })
 
-app.get('/blogs/:int(\\d+)', (req, res) => {
-    let num = req.params.int  //blog number, basically int from url
+app.get('/blogs/:id', (req, res) => {
+    let num = req.params.id  //blog number, basically id from url
     if (num < arr.length) {
-        res.render('blog', { data: arr[num], })
+        res.render('blog', { data: arr[num],})
     } else {
         res.render('404_blog')
     }
